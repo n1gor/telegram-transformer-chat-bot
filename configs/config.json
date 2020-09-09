@@ -1,0 +1,4 @@
+{
+  "_comment": "types of environments are: LOCAL, DEV, TEST, PROD. Defined in models",
+  "ENV_TYPE": "DEV"
+}
