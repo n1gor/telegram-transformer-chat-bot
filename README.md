@@ -1,4 +1,4 @@
-# telegram-transformer-chat-bot
+# Telegram transformer chat bot
 
 The goal of this project was to build a telegram bot which can talk to
 you in a more or less meaningful manner. The algorithm was based on
@@ -16,6 +16,8 @@ pip install requirements.txt
 ```
 python telegram_start.py
 ```
+4. After DB was created, insert there your profile information except ChatId
+5. Now you can chat with him
 
 # How to train the model
 1. Go to transformer_chatbot_trainging.ipynb
